@@ -30,7 +30,7 @@ const projects = [
       "Easy School Management is a simple, efficient platform for managing students, teachers, classes, and school operations in one place.",
     image:
       "https://res.cloudinary.com/dd5zyiyem/image/upload/v1769069912/Screenshot_153_agsoan.png",
-    liveUrl: "https://pre-capstone-e0h95jgce-arrahmoneeys-projects.vercel.app/",
+    liveUrl: "https://pre-capstone.vercel.app/",
     githubUrl: "https://github.com/Ar-ramoneey/Pre-Capstone-.git",
   },
   {
@@ -53,7 +53,7 @@ const projects = [
       "https://res.cloudinary.com/dd5zyiyem/image/upload/v1769071467/Screenshot_155_dowzmc.png",
   
     liveUrl:
-      "https://secret-numbers-ktzc7fd94-arrahmoneeys-projects.vercel.app/",
+      "https://secret-numbers-six.vercel.app/",
     githubUrl: "https://github.com/Ar-ramoneey/SecretNumbers.git",
   },
   {
